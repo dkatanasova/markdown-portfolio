@@ -1,2 +1,2 @@
-## ! https://octodex.github.com/privateinvestocat/
-### tester in action!
+## tester in action!
+![Image of Yaktocat](https://octodex.github.com/images/privateinvestocat.jpg/).
